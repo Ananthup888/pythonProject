@@ -1,0 +1,10 @@
+#oops - object oriented programming
+#Class
+#Object
+#Abstraction  - representing essential festures wihout including background details
+#Encapsulation - combining data and function
+#Inheritance  - eg ; vehicle(parent class) --> apply brake,colours,wheels
+                    #car (child class) --> airbags , 4 wheels
+                    #bike  - 2 wheels
+#Polymorphism - 1+2=3 ability exits in more than one form
+                # 'abc' + 'def' ='abcdef'    concatenation

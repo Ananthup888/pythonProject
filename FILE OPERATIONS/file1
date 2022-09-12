@@ -1,0 +1,16 @@
+hai
+how r u
+#r -read
+#r+ - read and write
+#w - write
+#w+ - write and read
+#a - append
+#a+ - append and read
+
+#open()
+#close()
+#read()
+#readline()
+#readlines()
+#write()
+#rwritelines()
